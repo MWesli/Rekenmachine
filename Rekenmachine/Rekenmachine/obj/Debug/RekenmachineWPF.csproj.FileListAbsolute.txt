@@ -1,0 +1,15 @@
+C:\Users\wesli\source\repos\RekenmachineWPF\RekenmachineWPF\bin\Debug\RekenmachineWPF.exe.config
+C:\Users\wesli\source\repos\RekenmachineWPF\RekenmachineWPF\bin\Debug\RekenmachineWPF.exe
+C:\Users\wesli\source\repos\RekenmachineWPF\RekenmachineWPF\bin\Debug\RekenmachineWPF.pdb
+C:\Users\wesli\source\repos\RekenmachineWPF\RekenmachineWPF\obj\Debug\RekenmachineWPF.csprojAssemblyReference.cache
+C:\Users\wesli\source\repos\RekenmachineWPF\RekenmachineWPF\obj\Debug\MainWindow.g.cs
+C:\Users\wesli\source\repos\RekenmachineWPF\RekenmachineWPF\obj\Debug\App.g.cs
+C:\Users\wesli\source\repos\RekenmachineWPF\RekenmachineWPF\obj\Debug\RekenmachineWPF_MarkupCompile.cache
+C:\Users\wesli\source\repos\RekenmachineWPF\RekenmachineWPF\obj\Debug\RekenmachineWPF_MarkupCompile.lref
+C:\Users\wesli\source\repos\RekenmachineWPF\RekenmachineWPF\obj\Debug\MainWindow.baml
+C:\Users\wesli\source\repos\RekenmachineWPF\RekenmachineWPF\obj\Debug\RekenmachineWPF.g.resources
+C:\Users\wesli\source\repos\RekenmachineWPF\RekenmachineWPF\obj\Debug\RekenmachineWPF.Properties.Resources.resources
+C:\Users\wesli\source\repos\RekenmachineWPF\RekenmachineWPF\obj\Debug\RekenmachineWPF.csproj.GenerateResource.cache
+C:\Users\wesli\source\repos\RekenmachineWPF\RekenmachineWPF\obj\Debug\RekenmachineWPF.csproj.CoreCompileInputs.cache
+C:\Users\wesli\source\repos\RekenmachineWPF\RekenmachineWPF\obj\Debug\RekenmachineWPF.exe
+C:\Users\wesli\source\repos\RekenmachineWPF\RekenmachineWPF\obj\Debug\RekenmachineWPF.pdb
